@@ -2,6 +2,9 @@
 
 ![Youtube App](https://user-images.githubusercontent.com/16510597/101987045-4a230e00-3cc4-11eb-95bf-1b54d7c7b3f3.jpg)
 
+![Gif](https://user-images.githubusercontent.com/16510597/101987207-32985500-3cc5-11eb-92fd-8cb0c6b2ccb2.gif)
+
+
 A new Flutter project.
 
 ## Getting Started
