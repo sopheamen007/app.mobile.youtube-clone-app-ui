@@ -18,7 +18,7 @@
 <!-- icons with padding -->
 
 [1.1]: https://image.flaticon.com/icons/png/32/2111/2111548.png
-[2.1]: https://cdn2.iconfinder.com/data/icons/social-media-2285/32/1_Youtube_colored_svg-32.png (facebook icon with padding)
+[2.1]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-32.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
