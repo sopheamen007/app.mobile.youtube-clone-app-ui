@@ -1,6 +1,6 @@
 # Youtube Clone App UI
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Support me on Patreon][![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.patreon.com/sopheamenvan?fan_landing=true)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 A new Flutter project.
