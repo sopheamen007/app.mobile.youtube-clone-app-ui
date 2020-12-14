@@ -18,7 +18,7 @@
 <!-- icons with padding -->
 
 [1.1]: https://img.icons8.com/bubbles/1x/patreon.png 
-[2.1]: https://img.icons8.com/fluent/1x/youtube-play.png (facebook icon with padding)
+[2.1]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-32.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
