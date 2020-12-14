@@ -4,7 +4,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="https://img.icons8.com/fluent/2x/youtube-play.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />Youtube</a>
+alt="IMAGE ALT TEXT HERE" width="50" height="50" border="10" />Youtube</a>
 
 ![Youtube App](https://user-images.githubusercontent.com/16510597/101987045-4a230e00-3cc4-11eb-95bf-1b54d7c7b3f3.jpg)
 
