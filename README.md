@@ -3,10 +3,10 @@
 - [Support me on Patreon ![IMAGE ALT TEXT HERE](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-32.png)](https://www.patreon.com/sopheamenvan?fan_landing=true)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-- <p float="left">
-  <img src="/img1.png" width="100" />
-  <p>Youtube</p>
-</p>
+- <div align="left">
+<img src=https://newfastuff.com/wp-content/uploads/2019/05/bW7QXVB.png" >
+<p>Perfectly balanced</p>
+</div>
 
 A new Flutter project.
 
