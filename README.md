@@ -3,7 +3,9 @@
 - [Support me on Patreon ![IMAGE ALT TEXT HERE](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-32.png)](https://www.patreon.com/sopheamenvan?fan_landing=true)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-- ![A cute kitten](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-32.png)
+- <p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+ </p>
 
 A new Flutter project.
 
