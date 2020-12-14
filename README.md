@@ -3,6 +3,8 @@
 - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
 - [Watch on youtube](https://www.youtube.com/watch?v=4uCfvenyEg4&t=12s)
 
+![App UI](https://user-images.githubusercontent.com/16510597/101987045-4a230e00-3cc4-11eb-95bf-1b54d7c7b3f3.jpg)
+
 A new Flutter project.
 
 ## Getting Started
