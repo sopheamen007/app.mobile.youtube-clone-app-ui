@@ -1,6 +1,6 @@
 # Youtube Clone App UI
 
-- [Support me on Patreon [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Support me on Patreon ![IMAGE ALT TEXT HERE](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-256.png)](https://www.patreon.com/sopheamenvan?fan_landing=true)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 A new Flutter project.
