@@ -1,7 +1,8 @@
 # Youtube Clone App UI
 
 - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
-- [Watch on youtube](https://www.youtube.com/watch?v=4uCfvenyEg4&t=12s)
+- [Watch on youtube Part I](https://youtu.be/4uCfvenyEg4)
+- [Watch on youtube Part II](https://youtu.be/fZFgUBJrKB4)
 
 ![App UI](https://user-images.githubusercontent.com/16510597/101987045-4a230e00-3cc4-11eb-95bf-1b54d7c7b3f3.jpg)
 
